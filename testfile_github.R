@@ -1,0 +1,2 @@
+names(mtcars)
+str(mtcars)
